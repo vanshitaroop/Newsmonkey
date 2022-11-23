@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 32,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Yahoo Sports Staff",
+      "title": "World Cup 2022 scores, updates: Mexico vs. Poland - Yahoo Sports",
+      "description": "Groups C and D get underway on Tuesday in the first four-match day of the 2022 World Cup.",
+      "url": "https://sports.yahoo.com/world-cup-2022-scores-updates-france-vs-australia-184333893.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5UnupeRhpd9FH5.qRvmAlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/e71eb5d0-6a79-11ed-aef3-ee8843d0459c",
+      "publishedAt": "2022-11-22T18:22:23Z",
+      "content": "Groups C and D get underway on Tuesday in the first four-match day of the 2022 World Cup. Argentina was one of the biggest favorites to win the World Cup but was stunned in its opener by Saudi Arabia… [+680 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Over a week after University of Idaho killings, here’s what we know as police investigate - Idaho Statesman",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3LmlkYWhvc3RhdGVzbWFuLmNvbS9uZXdzL2xvY2FsL2NyaW1lL2FydGljbGUyNjkwNTU3ODIuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-22T18:21:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "https://www.theguardian.com/profile/jonathan-howcroft",
+      "title": "France v Australia: World Cup 2022 – live - The Guardian",
+      "description": "Minute-by-minute report: The champions get their title defence under way against the Socceroos. Join Jonathan Howcroft",
+      "url": "https://www.theguardian.com/football/live/2022/nov/22/france-vs-australia-world-cup-qatar-2022-live-score-updates-socceroos-francia-fra-v-aus-kick-off-time-national-football-team-list-squad-soccer-fifa",
+      "urlToImage": "https://i.guim.co.uk/img/media/04d522e7e8190026b638e4939b4b719c7c9b584e/0_49_4342_2605/master/4342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bb77b9d01806743862039c3023df64f9",
+      "publishedAt": "2022-11-22T17:53:00Z",
+      "content": "Show key events onlyPlease turn on JavaScript to use this feature\r\nAnthem time. France already with the early advantage. \r\nHere they come, out of the tunnel, France in their beautifully crafted trico… [+6731 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Michelle Watson, Jennifer Henderson, Susannah Cullinane",
+      "title": "Man arrested after SUV drove through Massachusetts Apple store, leaving 1 dead and at least 20 injured - CNN",
+      "description": "The man accused of driving an SUV that killed one person and injured 20 others in Hingham, Massachusetts, has been identified by the Plymouth County district attorney's office as Bradley Rein, 53.",
+      "url": "https://www.cnn.com/2022/11/22/us/massachusetts-apple-store-crash-tuesday/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221122091120-03-massachusetts-apple-112122.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-22T17:52:00Z",
+      "content": "The man accused of driving an SUV into a Hingham, Massachusetts, Apple store, killing one person and injuring 20 others, has been charged with reckless homicide by motor vehicle, a prosecutors office… [+4064 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Andi Ortiz",
+      "title": "‘The View’ Hosts Scoff at ‘Chrisley Knows Best’ Sentences: Trump Gets to Run Again ‘And These 2 Idiots Are Going to Prison’ - Yahoo Entertainment",
+      "description": "\"It's unbelievable, to me,\" Joy Behar said",
+      "url": "https://www.yahoo.com/entertainment/view-hosts-scoff-chrisley-knows-173117532.html",
+      "urlToImage": "https://media.zenfs.com/en/thewrap.com/77f44c69591e36044c612c8ce56789a5",
+      "publishedAt": "2022-11-22T17:31:17Z",
+      "content": "Todd and Julie Chrisley, the couple at the center of USA Networks original series Chrisley Knows Best, were sentenced to a combined total of 19 years in federal prison Monday, after being convicted o… [+2303 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian staff reporter",
+      "title": "Stephen Colbert on Fifa: ‘The most corrupt organization in history’ - The Guardian",
+      "description": "Late-night hosts discuss the World Cup in Qatar and the justice department’s new special counsel investigating Trump",
+      "url": "https://www.theguardian.com/culture/2022/nov/22/stephen-colbert-fifa-trump-seth-meyers-jimmy-kimmel",
+      "urlToImage": "https://i.guim.co.uk/img/media/7af6dbc6ddc25935e06d623d777594bdcc690204/141_129_2556_1534/master/2556.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ad490998149aba49c38fea36540e55a",
+      "publishedAt": "2022-11-22T16:59:00Z",
+      "content": "Stephen Colbert\r\nStephen Colbert cheered the appointment of a new special counsel in the justice departments investigations into Donald Trump, for potential crimes related to the January 6 Capitol at… [+4978 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Hilary Lewis",
+      "title": "Independent Spirit Awards Film Nominations: ‘Everything Everywhere All at Once’ Leads With Eight Nods - Hollywood Reporter",
+      "description": "The 2023 Film Independent Spirit Awards nominations in film categories were revealed Tuesday morning. Taylour Paige and Raúl Castillo announced this year’s movie nominees in a live stream on Film Independent’s YouTube channel. A24’s Everything Everywhere All …",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/2023-spirit-awards-movie-nominations-nominees-list-1235268096/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/Everything-Everywhere-All-At-Once-ROONEY-Still-SXSW-Publicity-H-2022.jpg?w=1024",
+      "publishedAt": "2022-11-22T16:41:15Z",
+      "content": "The 2023 Film Independent Spirit Awards nominations in film categories were revealed Tuesday morning. \r\nTaylour Paige and Raúl Castillo announced this year’s movie nominees in a live stream on Film I… [+8179 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Kyle Orland",
+      "title": "Ubisoft comes crawling back to Steam after years on Epic Games Store - Ars Technica",
+      "description": "In 2019, company said Valve's 30 percent commissions were \"unrealistic.\"",
+      "url": "https://arstechnica.com/gaming/2022/11/ubisoft-comes-crawling-back-to-steam-after-years-on-epic-games-store/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/valhalla-760x380.jpeg",
+      "publishedAt": "2022-11-22T16:27:57Z",
+      "content": "Enlarge/ Artist's conception of Valve watching the return of Ubisoft games to its Steam platform.\r\n85 with 0 posters participating\r\nSince early 2019, Ubisoft has made a point of moving its PC release… [+2574 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Huge age gap shows up in AARP poll of Warnock-Walker runoff - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzc0NjQwMC1odWdlLWFnZS1nYXAtc2hvd3MtdXAtaW4tYWFycC1wb2xsLW9mLXdhcm5vY2std2Fsa2VyLXJ1bm9mZi_SAW5odHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL2NhbXBhaWduLzM3NDY0MDAtaHVnZS1hZ2UtZ2FwLXNob3dzLXVwLWluLWFhcnAtcG9sbC1vZi13YXJub2NrLXdhbGtlci1ydW5vZmYvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-22T16:23:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "World Cup greatest upsets, ranked: Argentina's loss to Saudi Arabia in top five, with France's 2002 loss No. 1 - CBS Sports",
+      "description": "Where does this Saudi Arabia win rank among the biggest upsets in World Cup history?",
+      "url": "https://www.cbssports.com/soccer/news/world-cup-greatest-upsets-ranked-argentinas-loss-to-saudi-arabia-in-top-five-with-frances-2002-loss-no-1/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/11/22/22ee0b9b-cd70-4fbe-9477-2ff67ef75e14/thumbnail/1200x675/84d57ac2c9c455670627ee91c0ca19d4/gettyimages-1244990619.jpg",
+      "publishedAt": "2022-11-22T16:22:04Z",
+      "content": "The World Cup is already underway but the fun doesn't really begin until we are treated to our first upset of the tournament. It's safe to say that after Tuesday's shock result that saw Saudi Arabia … [+3137 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Ali Dukakis, Josh Margolin, Tonya Simpson, Morgan Winsor",
+      "title": "Colorado shooting suspect purchased gun despite 2021 bomb threat arrest - ABC News",
+      "description": "The suspect was previously arrested in an alleged bomb threat incident.",
+      "url": "https://abcnews.go.com/US/colorado-shooting-suspect-purchased-gun-despite-2021-bomb/story?id=93704694",
+      "urlToImage": "https://s.abcnews.com/images/US/club-q-colorado-springs-ap-221_hpMain_20221121-054300_16x9_992.jpg",
+      "publishedAt": "2022-11-22T15:50:12Z",
+      "content": "The man suspected of opening fire at an LGBTQ nightclub in Colorado's second-largest city over the weekend was previously arrested in an alleged bomb threat incident last year, ABC News has learned. … [+10754 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Staff",
+      "title": "The best Apple Black Friday deals you can get right now - CNN Underscored",
+      "description": "Here are the best Apple Black Friday deals we've spotted so far, including big savings on MacBooks, AirPods, Apple Watches and more.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-black-friday-deals-2022",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/bfcm-2022-lead-apple-2.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-22T15:45:00Z",
+      "content": "Want more deals? Visit CNN Underscoreds Guide to Black Friday for wall-to-wall coverage of the best discounts to be found during the biggest shopping event of the year.\r\nApple Black Friday deals 2022… [+1615 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Léonie Chao-Fong, Tom Ambrose, Helen Sullivan",
+      "title": "Russia-Ukraine war at a glance: what we know on day 272 of the invasion - The Guardian",
+      "description": "Ukraine evacuates civilians from Kherson; repeated shelling of Zaporizhzhia nuclear plant",
+      "url": "https://www.theguardian.com/world/2022/nov/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-272-of-the-invasion",
+      "urlToImage": "https://i.guim.co.uk/img/media/4a69c1c6497eb41ae744cf4aaf92cb6f439313c4/0_227_6956_4173/master/6956.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c792c97928ba41d33acb6cac083997c",
+      "publishedAt": "2022-11-22T15:29:00Z",
+      "content": "<li>Ukraine is to evacuate civilians from recently liberated areas of the Kherson and Mykolaiv regions. Residents of the two southern regions have been advised to move to safer areas in the central a… [+5988 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Kotaku" },
+      "author": "Ashley Bardhan",
+      "title": "There’s A Pokémon Scarlet And Violet Exploit That Helps You Generate Shinies - Kotaku",
+      "description": "Some bugs are for the best—until the next patch, anyway",
+      "url": "https://kotaku.com/pokemon-scarlet-violet-shiny-hunting-how-find-youtube-1849812055",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f6fb15e2696b12377f4f001227fa7b02.jpg",
+      "publishedAt": "2022-11-22T15:25:00Z",
+      "content": "Pokémon Scarlet and Violet continues to ring in its opening week with some solid co-op outshone by destructive glitches, but now theres a new exploit in town. YouTuber PhillyBeatzU describes what he … [+2073 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "HORRIBLE! Stephen A. Smith GOES IN on Zach Wilson! | First Take - ESPN",
+      "description": "HORRIBLE! Stephen A. Smith GOES IN on Zach Wilson! | First TakeOn First Take, Stephen A. Smith and Keyshawn Johnson debate whether it’s time to bench Zach Wi...",
+      "url": "https://www.youtube.com/watch?v=WnFREMUqo2Q",
+      "urlToImage": "https://i.ytimg.com/vi/WnFREMUqo2Q/maxresdefault.jpg",
+      "publishedAt": "2022-11-22T15:24:09Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "AP fires reporter behind retracted Russian missiles story - The Hill",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzc0NjI0My1hcC1maXJlcy1yZXBvcnRlci1iZWhpbmQtcmV0cmFjdGVkLXJ1c3NpYW4tbWlzc2lsZXMtc3Rvcnkv0gFjaHR0cHM6Ly90aGVoaWxsLmNvbS9ob21lbmV3cy8zNzQ2MjQzLWFwLWZpcmVzLXJlcG9ydGVyLWJlaGluZC1yZXRyYWN0ZWQtcnVzc2lhbi1taXNzaWxlcy1zdG9yeS9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-22T14:59:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By Marnie Hunter, CNN",
+      "title": "Thanksgiving travel should be less chaotic than summer - CNN",
+      "description": "Flight chaos over the summer has air travelers on edge as Americans head into what's expected to be the busiest holiday travel season since 2019. Airlines have staffed up and planned for the crush, but there's one variable that can stymie the best-laid plans.",
+      "url": "https://www.cnn.com/travel/article/thankgiving-travel-2022/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221121164732-us-holiday-travel-2022-restricted-super-tease.jpg",
+      "publishedAt": "2022-11-22T14:06:46Z",
+      "content": "Marnie Hunter, CNNUpdated 22nd November 2022\r\nEditor's Note Sign up for Unlocking the World, CNN Travel's weekly newsletter. Get news about destinations opening, inspiration for future adventures, pl… [+6948 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Olivia Land",
+      "title": "Neighbors celebrate arrest of Georgia toddler Quinton Simon's mom - New York Post ",
+      "description": "Leilani Simon was arrested for the murder of her son, Quinton, on Monday afternoon.",
+      "url": "https://nypost.com/2022/11/22/neighbors-celebrate-arrest-of-georgia-toddler-quinton-simons-mom/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/11/newspress-collage-24744611-1669124269942.jpg?quality=75&strip=all&1669106385&w=1024",
+      "publishedAt": "2022-11-22T13:27:00Z",
+      "content": "Neighbors of Leilani Simon, the Georgia mom charged in the disappearance and murder of her toddler son, are “glad” she has been arrested.\r\nFrom the first day it just did not feel right, Gerri McCuske… [+3032 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Health Experts Warn Of Flu And RSV Risk At Holiday Gatherings - TODAY",
+      "description": "As the holiday season begins, health experts are sounding a new alarm over a surge in respiratory viruses already pushing hospitals to the brink across the c...",
+      "url": "https://www.youtube.com/watch?v=eJTAYJ7vzDs",
+      "urlToImage": "https://i.ytimg.com/vi/eJTAYJ7vzDs/maxresdefault.jpg",
+      "publishedAt": "2022-11-22T13:15:01Z",
+      "content": null
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Hyung-jin Kim",
+      "title": "Kim's sister warns US of 'a more fatal security crisis' - The Associated Press - en Español",
+      "description": "SEOUL, South Korea (AP) — The influential sister of North Korean leader Kim Jong Un warned the United States on Tuesday that it would face “a more fatal security crisis\" as Washington pushes for U.N.",
+      "url": "https://apnews.com/article/united-states-seoul-south-korea-linda-thomas-greenfield-north-8bce9730dab1335884d0a2b899cd4c3b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/1a6e5d069b3c4dd0b910b08b5c297b69/3000.jpeg",
+      "publishedAt": "2022-11-22T12:40:53Z",
+      "content": "SEOUL, South Korea (AP) The influential sister of North Korean leader Kim Jong Un warned the United States on Tuesday that it would face a more fatal security crisis as Washington pushes for U.N. con… [+3505 chars]"
+    }
+  ]
+}
