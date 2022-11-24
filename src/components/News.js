@@ -8,36 +8,69 @@ export default class News extends Component {
     super()
     console.log("tis is a constructor");
     this.state={
+      page:1,
       articles:[]
     }
   }
   async componentDidMount(){
     console.log("I am cmd");
-    let url ="https://newsapi.org/v2/top-headlines?country=in&apiKey=8d201a4d55c44269973a3cdee179d3d0";
+    let url ="https://newsapi.org/v2/top-headlines?country=in&apiKey=8d201a4d55c44269973a3cdee179d3d0&page=1&pageSize=20";
     let data = await fetch(url);
     let parsedData = await data.json()
     console.log(parsedData); 
-    this.setState({articles:parsedData.articles})
+    this.setState({articles:parsedData.articles, totalResults:parsedData.totalResults})
 
+  }
+  handleNextClick= async()=>{
+    console.log("next");
+   if (this.state.page+1>Math.ceil(this.state.totalResults/20)){
+
+  }
+  else{
+    let url =`https://newsapi.org/v2/top-headlines?country=in&apiKey=8d201a4d55c44269973a3cdee179d3d0&page=${this.state.page+1}&pageSize=20`;
+    let data = await fetch(url);
+    let parsedData = await data.json()
+    console.log(parsedData); 
+    this.setState({
+      page:this.state.page+1,
+      articles:parsedData.articles
+    })
+  }
+   
+  }
+  handlePrevClick= async ()=>{
+    console.log("prev");
+    let url =`https://newsapi.org/v2/top-headlines?country=in&apiKey=8d201a4d55c44269973a3cdee179d3d0&page=${this.state.page-1}&pageSize=20`;
+    let data = await fetch(url);
+    let parsedData = await data.json()
+    console.log(parsedData); 
+    this.setState({
+      page:this.state.page-1,
+      articles:parsedData.articles
+    })
   }
   render() {
     console.log("render")
     return (
-      <div className='container my-4'>
+     <>
+       <div className='container my-4'>
         <h1>NewsMonkey -Top Headlines</h1>
-        
         <div className='row'>
         {this.state.articles.map((element)=>{
             return <div className='col-md-4' key={element.url}>
             <Newsitem title={element.title?element.title.slice(0,44):" "} description={element.description?element.description.slice(0,88):" "} newsUrl={element.url} imageUrl={element.urlToImage}/>
             </div>
         })}
-          
-          
         </div>
-       
-        
+      <div className='container d-flex justify-content-between'>
+      <button type="button" disabled={this.state.page<=1} className="btn btn-dark" onClick={this.handlePrevClick} >Previous</button>
+      <button type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next</button>
       </div>
+        </div> 
+       
+      
+     
+     </>
     )
   }
 }
