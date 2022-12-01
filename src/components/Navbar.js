@@ -17,8 +17,6 @@ export default function Navbar() {
         <li className="nav-item">
           <Link className="nav-link " aria-current="page"to="/">Home</Link> 
         </li>
-       
-       
         <li className="nav-item"><Link className="nav-link active" aria-current="page"to="/business">Business</Link> </li>
         <li className="nav-item"><Link className="nav-link active" aria-current="page"to="/entertainment">Entertainment</Link> </li>
         <li className="nav-item"><Link className="nav-link active" aria-current="page"to="/health">Health</Link> </li>
@@ -26,7 +24,9 @@ export default function Navbar() {
         <li className="nav-item"><Link className="nav-link active" aria-current="page"to="/sports">Sports</Link> </li>
         <li className="nav-item"><Link className="nav-link active" aria-current="page"to="/technology">Technology</Link> </li>
       </ul>
-      
+      <span class="navbar-text">
+       Designed and developed by Vanshita Roopchandani👩❤️
+      </span>
     </div>
   </div>
 </nav>

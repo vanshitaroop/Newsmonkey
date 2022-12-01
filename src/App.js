@@ -1,6 +1,6 @@
 
 import './App.css';
-
+import Footer from './components/Footer';
 import React, { useState } from 'react'
 import Navbar from './components/Navbar';
 import News from './components/News';
@@ -29,8 +29,6 @@ export default function App ()  {
           <Route exact path="/sports" element={<News setProgress={setProgress} apiKey={apikey} key="sports"pageSize="5" country="in" category="sports"/>}/>
           <Route exact path="/technology" element={<News setProgress={setProgress} apiKey={apikey} key="technology" pageSize="5" country="in" category="technology"/>}/>
         </Routes>
-      
-        
       </div>
     )
   

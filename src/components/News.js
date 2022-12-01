@@ -94,7 +94,7 @@ export default function News(props) {
      <>
        <div className='container'>
        <div className='container my-4'>
-        <h1 className='text-center ' style={{margin:"35px 0px" , marginTop:"90px"}}>NewsMonkey -Top Headlines from {capitalizeFirstLetter( props.category)}</h1>
+        <h1 className='text-center ' style={{margin:"35px 0px" , marginTop:"90px"}}>NewsMonkey -Top {capitalizeFirstLetter( props.category)} Headlines </h1>
         {loading && <Spinner/>}
         <InfiniteScroll
           dataLength={articles.length}
@@ -117,10 +117,7 @@ export default function News(props) {
       <button disabled={this.state.page+1>Math.ceil(this.state.totalResults/ props.pageSize)} type="button" className="btn btn-dark" onClick={this.handleNextClick}>Next</button>
       </div> */}
         </div> 
-       </div>
-       
-      
-     
+       </div> 
      </>
     )
   
