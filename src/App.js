@@ -14,7 +14,7 @@ import {
 export default function App ()  {
   const [progress, setProgress] = useState(0)
   
-  const apikey = process.env.REACT_APP_NEWS_API
+  const apikey = "b472c5971df241cbb9056f9e144edfac"
   
     return (
       <div>
